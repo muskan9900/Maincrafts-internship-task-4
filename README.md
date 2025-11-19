@@ -290,13 +290,6 @@ This is a learning project, but suggestions are welcome!
 ---
 
 
-## 👨‍💻 Author
-
-**Your Name**
-- Built as part of Task-4 assignment
-- Focus: Frontend Development & JavaScript fundamentals
-
----
 
 ## 🙏 Acknowledgments
 
